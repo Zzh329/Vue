@@ -1,0 +1,5 @@
+root = ture
+[*]
+charset = utf-8
+indent_style = tabs
+indent_size = 2
